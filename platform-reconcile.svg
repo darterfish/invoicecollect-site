@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#102348" flood-opacity=".14"/></filter></defs>
+  <rect width="1200" height="760" rx="36" fill="#fbfdff"/>
+  <rect x="60" y="58" width="1080" height="644" rx="28" fill="#fff" stroke="#dce8f5" filter="url(#s)"/>
+  <rect x="60" y="58" width="1080" height="64" rx="28" fill="#216fed"/>
+  <text x="94" y="98" font-family="Inter,Arial" font-size="20" font-weight="900" fill="#fff">Reconcile Invoices</text>
+  <text x="956" y="98" font-family="Inter,Arial" font-size="15" font-weight="800" fill="#fff">Google Sheets add-on</text>
+  <g font-family="Inter,Arial">
+    <text x="100" y="172" font-size="28" font-weight="900" fill="#102348">Match payments without hunting through tabs</text>
+    <text x="100" y="204" font-size="16" fill="#5f718b">Record partial payments, deposits, credits, and balances in one guided screen.</text>
+    <rect x="100" y="246" width="300" height="118" rx="20" fill="#f7fbff" stroke="#dce8f5"/><text x="128" y="288" font-size="14" font-weight="900" fill="#5f718b">Selected invoice</text><text x="128" y="326" font-size="26" font-weight="900" fill="#102348">INV-10025</text><text x="128" y="348" font-size="15" fill="#5f718b">Lakeside Builders · Deck addition</text>
+    <rect x="450" y="246" width="250" height="118" rx="20" fill="#fff" stroke="#dce8f5"/><text x="478" y="288" font-size="14" font-weight="900" fill="#5f718b">Invoice total</text><text x="478" y="328" font-size="32" font-weight="900" fill="#216fed">$4,500</text>
+    <rect x="730" y="246" width="250" height="118" rx="20" fill="#fff" stroke="#dce8f5"/><text x="758" y="288" font-size="14" font-weight="900" fill="#5f718b">Remaining</text><text x="758" y="328" font-size="32" font-weight="900" fill="#ff7a1a">$850</text>
+    <rect x="100" y="410" width="480" height="216" rx="22" fill="#fff" stroke="#dce8f5"/><text x="128" y="450" font-size="18" font-weight="900" fill="#102348">Payments received</text>
+    <rect x="128" y="474" width="400" height="42" rx="12" fill="#f7fbff"/><text x="148" y="502" font-size="14" fill="#244268">05/12/2026 · Deposit · ACH</text><text x="438" y="502" font-size="14" font-weight="900" fill="#21a66a">$2,000</text>
+    <rect x="128" y="530" width="400" height="42" rx="12" fill="#f7fbff"/><text x="148" y="558" font-size="14" fill="#244268">05/26/2026 · Check #1082</text><text x="438" y="558" font-size="14" font-weight="900" fill="#21a66a">$1,650</text>
+    <rect x="630" y="410" width="450" height="216" rx="22" fill="#fff" stroke="#dce8f5"/><text x="658" y="450" font-size="18" font-weight="900" fill="#102348">Add payment</text>
+    <rect x="658" y="474" width="380" height="38" rx="10" fill="#fbfdff" stroke="#dce8f5"/><text x="678" y="499" font-size="13" fill="#5f718b">Amount: $850</text>
+    <rect x="658" y="526" width="380" height="38" rx="10" fill="#fbfdff" stroke="#dce8f5"/><text x="678" y="551" font-size="13" fill="#5f718b">Method: ACH</text>
+    <rect x="858" y="582" width="180" height="44" rx="14" fill="#ff7a1a"/><text x="900" y="610" font-size="14" font-weight="900" fill="#fff">Mark paid</text>
+  </g>
+</svg>
